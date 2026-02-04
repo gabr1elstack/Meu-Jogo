@@ -1,6 +1,8 @@
 🕹️ Pong Game — Python
-Implementação do clássico Pong desenvolvida em Python com Pygame, 
-focada em fundamentos de lógica, jogos 2D e código limpo.
+Implementação do clássico Pong 
+desenvolvida em Python com Pygame, 
+focada em fundamentos de lógica, 
+jogos 2D e código limpo.
 
 🎯 Objetivo
 Projeto de portfólio para consolidar:
@@ -15,7 +17,7 @@ Python 3.x
 
 Pygame
 ⚙️ Execução
-git clone https://github.com/seuusuario/Meu_Jogo.git
+git clone https://github.com/gabr1elstac/Meu_Jogo.git
 cd Meu_Jogo
 pip install pygame
 python main.py
@@ -34,9 +36,9 @@ Menu inicial
 Dificuldade progressiva
 Sons e placar
 
-👤 Autor
+👨‍💻 Autor
 Luiz Gabriel
-Desenvolvedor Júnior | Python | Java
+Desenvolvedor Júnior | Python • Java | Construindo base sólida
 
 GitHub: https://github.com/G1brii1iiell
 LinkedIn: https://linkedin.com/in/G1brii1iiel
