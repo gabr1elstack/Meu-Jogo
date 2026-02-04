@@ -40,5 +40,5 @@ Sons e placar
 Luiz Gabriel
 Desenvolvedor Júnior | Python • Java | Construindo base sólida
 
-GitHub: https://github.com/G1brii1iiell
-LinkedIn: https://linkedin.com/in/G1brii1iiel
+GitHub: https://github.com/gabr1elstack
+LinkedIn: https://linkedin.com/in/gabr1elstack
